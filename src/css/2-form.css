@@ -1,3 +1,7 @@
+body {
+  display: flex;
+  align-items: center;
+}
 .feedback-form {
   padding: 15px;
   display: flex;
