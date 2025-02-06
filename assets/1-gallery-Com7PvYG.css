@@ -1,0 +1,1 @@
+body{display:flex;align-items:center;justify-content:center}.gallery{display:flex;flex-wrap:wrap;max-width:1158px;padding:15px;gap:24px}.gallery-image{height:200px;width:360px}.gallery-image:hover{transform:scale(1.04)}.modal-image{width:1112px;height:640px}.basicLightbox{background-color:#2e2f42cc}
